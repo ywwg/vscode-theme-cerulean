@@ -13,6 +13,8 @@
 		"editorGroupHeader.noTabsBackground": "#1b232e",
 		"editorGroupHeader.tabsBackground": "#1b232e",
 		"editorWidget.background": "#212c39",
+		"editor.findMatchBackground": "#0b4d79",
+		"editor.findMatchHighlightBackground": "#515d64",
 		"input.background": "#263041",
 		"list.hoverBackground": "#263041",
 		"panel.background": "#1b232e",
