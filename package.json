@@ -1,0 +1,22 @@
+{
+    "name": "cerulean",
+    "displayName": "Cerulean",
+    "description": "a blue theme",
+    "version": "0.0.1",
+    "publisher": "OwenWilliams",
+    "engines": {
+        "vscode": "^1.26.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Cerulean",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Cerulean-color-theme.json"
+            }
+        ]
+    }
+}
