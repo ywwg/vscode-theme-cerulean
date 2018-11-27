@@ -1,13 +1,15 @@
-# README
-## This is the README for your extension "cerulean"
-You can author your README using Visual Studio Code.  Here are some useful editor keyboard shortcuts:
+# Cerulean Color Theme
 
-* Split the editor (`Cmd+\` on macOS or `Ctrl+\` on Windows and Linux)
-* Toggle preview (`Shift+CMD+V` on macOS or `Shift+Ctrl+V` on Windows and Linux)
-* Press `Ctrl+Space` (Windows, Linux) or `Cmd+Space` (macOS) to see a list of Markdown snippets
+A cool blue color theme with just the right amount of contrast. In-editor color
+use is kept to a minimum to let the code come to the forefront. Subtle
+bold and italic text treatments help indicate syntax where it's useful.
 
-### For more information
-* [Visual Studio Code's Markdown Support](http://code.visualstudio.com/docs/languages/markdown)
-* [Markdown Syntax Reference](https://help.github.com/articles/markdown-basics/)
+Tested with:
 
-**Enjoy!**
+- C++
+- Ruby
+- Python
+- Go
+- Javascript
+- JSON
+- Markdown

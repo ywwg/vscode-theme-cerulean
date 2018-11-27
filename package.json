@@ -1,8 +1,8 @@
 {
     "name": "cerulean",
     "displayName": "Cerulean",
-    "description": "a blue theme",
-    "version": "0.0.1",
+    "description": "a blue color theme",
+    "version": "0.1.0",
     "publisher": "OwenWilliams",
     "engines": {
         "vscode": "^1.26.0"
