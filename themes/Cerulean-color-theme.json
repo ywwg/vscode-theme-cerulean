@@ -13,8 +13,9 @@
 		"editorGroupHeader.noTabsBackground": "#141b24",
 		"editorGroupHeader.tabsBackground": "#141b24",
 		"editorWidget.background": "#161e26",
+		"editorOverviewRuler.findMatchForeground": "#2b577455",
 		"editor.findMatchBackground": "#2b5774",
-		"editor.findMatchHighlightBackground": "#515d64",
+		"editor.findMatchHighlightBackground": "#515d6477",
 		"gitDecoration.modifiedResourceForeground": "#4EB071",
 		"gitDecoration.deletedResourceForeground": "#DA6771",
 		"gitDecoration.untrackedResourceForeground": "#399EF4",
@@ -32,7 +33,6 @@
 		{
 			"settings": {
 				"foreground": "#e0e7ec",
-				"background": "#151c24"
 			}
 		},
 		{
@@ -578,7 +578,6 @@
 				"markup.quote punctuation.definition.blockquote.markdown"
 			],
 			"settings": {
-				"background": "#65737E",
 				"foreground": "#5ebdf7"
 			}
 		},
@@ -673,7 +672,6 @@
 			],
 			"settings": {
 				"fontStyle": "bold",
-				"background": "#00000050",
 				"foreground": "#65737E"
 			}
 		},
