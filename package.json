@@ -1,31 +1,36 @@
 {
-    "name": "cerulean",
-    "displayName": "Cerulean",
-    "description": "a blue color theme",
-    "version": "0.1.1",
-    "license": "MIT",
-    "publisher": "OwenWilliams",
-    "engines": {
-        "vscode": "^1.26.0"
-    },
-    "categories": [
-        "Themes"
-    ],
-    "contributes": {
-        "themes": [
-            {
-                "label": "Cerulean",
-                "uiTheme": "vs-dark",
-                "path": "./themes/Cerulean-color-theme.json"
-            }
-        ]
-    },
-    "homepage": "https://github.com/ywwg/vscode-theme-cerulean",
-    "repository": {
-        "type": "git",
-        "url": "https://github.com/ywwg/vscode-theme-cerulean"
-    },
-    "bugs": {
-        "url": "https://github.com/ywwg/vscode-theme-cerulean/issues"
-    }
+	"name": "cerulean",
+	"displayName": "Cerulean",
+	"description": "a blue color theme",
+	"version": "0.1.1",
+	"license": "MIT",
+	"publisher": "OwenWilliams",
+	"engines": {
+		"vscode": "^1.26.0"
+	},
+	"categories": [
+		"Themes"
+	],
+	"contributes": {
+		"themes": [
+			{
+				"label": "Cerulean",
+				"uiTheme": "vs-dark",
+				"path": "./themes/Cerulean-color-theme.json"
+			}
+		]
+	},
+	"homepage": "https://github.com/ywwg/vscode-theme-cerulean",
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/ywwg/vscode-theme-cerulean"
+	},
+	"bugs": {
+		"url": "https://github.com/ywwg/vscode-theme-cerulean/issues"
+	},
+	"__metadata": {
+		"id": "c05d7289-b970-4999-8c57-a1fcb916c69d",
+		"publisherDisplayName": "Owen Williams",
+		"publisherId": "833407cf-0ba0-4211-b4fd-213bb2d35070"
+	}
 }
