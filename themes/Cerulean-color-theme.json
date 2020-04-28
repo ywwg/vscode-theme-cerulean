@@ -14,6 +14,8 @@
 		"editorGroupHeader.tabsBackground": "#101720",
 		"editorWidget.background": "#101820",
 		"editorOverviewRuler.findMatchForeground": "#297db4aa",
+		"editor.selectionBackground": "#315b86be",
+		"editor.selectionHighlightBackground": "#5a626b93",
 		"editor.findMatchBackground": "#297db4",
 		"editor.findMatchHighlightBackground": "#737a7f",
 		"gitDecoration.modifiedResourceForeground": "#4EB071",
