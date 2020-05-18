@@ -29,7 +29,16 @@
 		"sideBar.background": "#101720",
 		"sideBar.border": "#555",
 		"sideBarTitle.foreground": "#bbbbbb",
-		"tab.inactiveBackground": "#101720",
+		"tab.activeBorder": "#aaa",
+		"tab.unfocusedActiveBorder": "#aaaaaa55",
+		"tab.activeBackground": "#2d343e",
+		"tab.unfocusedActiveBackground": "#1e252e",
+		"tab.inactiveBackground": "#181f28",
+		"tab.unfocusedInactiveBackground": "#101720",
+		"tab.activeForeground": "#f2f7fe",
+		"tab.inactiveForeground": "#a7abb2",
+		"tab.unfocusedActiveForeground": "#d6dbe1",
+		"tab.unfocusedInactiveForeground": "#a7abb2"
 	},
 	"tokenColors": [
 		{
