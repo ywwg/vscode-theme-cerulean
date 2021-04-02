@@ -21,6 +21,7 @@
 		]
 	},
 	"homepage": "https://github.com/ywwg/vscode-theme-cerulean",
+	"icon": "icon.png",
 	"repository": {
 		"type": "git",
 		"url": "https://github.com/ywwg/vscode-theme-cerulean"
