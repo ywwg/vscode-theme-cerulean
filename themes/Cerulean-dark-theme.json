@@ -8,46 +8,46 @@
 		"activityBarBadge.background": "#007acc",
 		"dropdown.background": "#263041",
 		"editor.background": "#101820",
-		"editor.foreground": "#f0f7fc",
-		"editor.lineHighlightBackground": "#242e3b",
-		"editorGroupHeader.noTabsBackground": "#101720",
-		"editorGroupHeader.tabsBackground": "#101720",
-		"editorWidget.background": "#101820",
-		"editorOverviewRuler.findMatchForeground": "#297db4aa",
-		"editor.selectionBackground": "#206fbfc9",
-		// Selection Foreground is broken in many cases: https://github.com/microsoft/vscode/issues/36490
-		"editor.selectionForeground": "#f3f5f7",
-		"editor.selectionHighlightBackground": "#3e444a93",
 		"editor.findMatchBackground": "#297db4",
 		"editor.findMatchHighlightBackground": "#737a7f",
+		"editor.foreground": "#f0f7fc",
+		"editor.lineHighlightBackground": "#242e3b",
+		"editor.selectionBackground": "#206fbfc9",
+		"editor.selectionForeground": "#f3f5f7",
+		"editor.selectionHighlightBackground": "#3e444a93",
 		"editor.wordHighlightBackground": "#376b9f55",
 		"editor.wordHighlightStrongBackground": "#376b9f55",
-		"gitDecoration.modifiedResourceForeground": "#4EB071",
-		"gitDecoration.deletedResourceForeground": "#DA6771",
-		"gitDecoration.untrackedResourceForeground": "#399EF4",
+		"editorGroupHeader.noTabsBackground": "#101720",
+		"editorGroupHeader.tabsBackground": "#101720",
+		"editorOverviewRuler.findMatchForeground": "#297db4aa",
+		"editorWidget.background": "#101820",
 		"gitDecoration.conflictingResourceForeground": "#fff099",
+		"gitDecoration.deletedResourceForeground": "#DA6771",
 		"gitDecoration.ignoredResourceForeground": "#535a6b",
+		"gitDecoration.modifiedResourceForeground": "#4EB071",
+		"gitDecoration.untrackedResourceForeground": "#399EF4",
 		"input.background": "#263041",
 		"list.hoverBackground": "#263041",
 		"panel.background": "#101720",
 		"sideBar.background": "#101720",
 		"sideBar.border": "#555",
 		"sideBarTitle.foreground": "#bbbbbb",
-		"tab.activeBorder": "#aaa",
-		"tab.unfocusedActiveBorder": "#aaaaaa55",
 		"tab.activeBackground": "#2d343e",
-		"tab.unfocusedActiveBackground": "#1e252e",
-		"tab.inactiveBackground": "#181f28",
-		"tab.unfocusedInactiveBackground": "#101720",
+		"tab.activeBorder": "#aaa",
 		"tab.activeForeground": "#f2f7fe",
+		"tab.inactiveBackground": "#181f28",
 		"tab.inactiveForeground": "#a7abb2",
+		"tab.unfocusedActiveBackground": "#1e252e",
+		"tab.unfocusedActiveBorder": "#aaaaaa55",
 		"tab.unfocusedActiveForeground": "#d6dbe1",
+		"tab.unfocusedInactiveBackground": "#101720",
 		"tab.unfocusedInactiveForeground": "#a7abb2"
+		// Selection Foreground is broken in many cases: https://github.com/microsoft/vscode/issues/36490
 	},
 	"tokenColors": [
 		{
 			"settings": {
-				"foreground": "#e0e7ec",
+				"foreground": "#e0e7ec"
 			}
 		},
 		{
@@ -69,7 +69,7 @@
 			],
 			"settings": {
 				"foreground": "#e0e7ec",
-				"fontStyle": "bold",
+				"fontStyle": "bold"
 			}
 		},
 		{

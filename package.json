@@ -2,7 +2,7 @@
 	"name": "cerulean",
 	"displayName": "Cerulean",
 	"description": "an elegant blue color theme",
-	"version": "1.1.0",
+	"version": "2.0.0",
 	"license": "MIT",
 	"publisher": "OwenWilliams",
 	"engines": {
@@ -14,9 +14,14 @@
 	"contributes": {
 		"themes": [
 			{
-				"label": "Cerulean",
+				"label": "Cerulean Dark",
 				"uiTheme": "vs-dark",
-				"path": "./themes/Cerulean-color-theme.json"
+				"path": "./themes/Cerulean-dark-theme.json"
+			},
+			{
+				"label": "Cerulean Light",
+				"uiTheme": "vs",
+				"path": "./themes/Cerulean-light-theme.json"
 			}
 		]
 	},
