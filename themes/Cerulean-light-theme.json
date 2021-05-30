@@ -13,7 +13,7 @@
 		"activityBarBadge.background": "#074d7b",
 		"activityBarBadge.foreground": "#ffffff",
 		"breadcrumb.background": "#f9f9f9",
-		"editor.background": "#fafafc",
+		"editor.background": "#fdfdff",
 		"editor.foreground": "#14222f",
 		"editor.lineHighlightBackground": "#f1f5f7",
 		"editor.selectionBackground": "#5994d07e",
@@ -156,7 +156,7 @@
 				"meta.group.braces.curly constant.other.object.key.js string.unquoted.label.js"
 			],
 			"settings": {
-				"foreground": "#2677a9",
+				"foreground": "#1b5173",
 			}
 		},
 		{
