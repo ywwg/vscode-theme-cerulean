@@ -1,7 +1,12 @@
 # Change Log
+
 All notable changes to the "cerulean" extension will be documented in this file.
 
-Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how to structure this file.
+## 2
 
-## [Unreleased]
-- Initial release
+* Added nicer bracket-match highlight colors
+* Don't need decimal releases.
+
+## 1.9.0
+
+* Light theme
