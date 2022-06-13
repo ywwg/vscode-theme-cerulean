@@ -2,10 +2,10 @@
 
 All notable changes to the "cerulean" extension will be documented in this file.
 
-## 2
+## 2.0.0
 
 * Added nicer bracket-match highlight colors
-* Don't need decimal releases.
+* Let's just use major numbers for releases.
 
 ## 1.9.0
 
