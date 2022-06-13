@@ -17,6 +17,12 @@
 		"editor.selectionHighlightBackground": "#3e444a93",
 		"editor.wordHighlightBackground": "#376b9f55",
 		"editor.wordHighlightStrongBackground": "#376b9f55",
+		"editorBracketHighlight.foreground1": "#e0e7ec",
+		"editorBracketHighlight.foreground2": "#1884c7",
+		"editorBracketHighlight.foreground3": "#a450d9",
+		"editorBracketHighlight.foreground4": "#11bb93",
+		"editorBracketHighlight.foreground5": "#b68211",
+		"editorBracketHighlight.foreground6": "#b6b311",
 		"editorGroupHeader.noTabsBackground": "#101720",
 		"editorGroupHeader.tabsBackground": "#101720",
 		"editorOverviewRuler.findMatchForeground": "#297db4aa",
@@ -110,7 +116,7 @@
 				"entity.other.attribute-name"
 			],
 			"settings": {
-				"foreground": "#5ebdf7",
+				"foreground": "#5ebdf7"
 			}
 		},
 		{
